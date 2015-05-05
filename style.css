@@ -1,0 +1,97 @@
+.topheaderbox{
+	height:48px;
+	background:rgb(40,120,179)	;
+
+
+}
+.biggraybox{
+	background:rgb(40,49,63);
+	height:1078px;
+}
+.createbox {
+	font-size:40px;
+	margin:0 auto;
+	height:70px;
+	padding-top:160px;
+	padding-left:50px;
+	padding-right:50px;
+	text-align:center;
+	color:white;
+}
+.websitebox {
+	font-size:40;
+	margin:0 auto;
+	height:70px;
+}
+.wordpress{
+	font-size:18px;
+	color:white;
+	text-align:center;
+	margin:0 auto;
+	padding-top:35px;
+
+
+}
+.yourpersonal{
+	font-size:18px;
+	color:white;
+	text-align:center;
+	margin:0 auto;
+}
+.lilbluebottom{
+	background:rgb(41,121,176);
+	width:227px;
+	height:71px;
+	border-style:solid;
+	border-color:rgb(24,30,39);
+	border-width:10px;
+	margin:0 auto;
+	margin-top:30px;
+}
+.lililwhite {
+	width:49px;
+	height:22px;
+	background:white;
+	margin:0 auto;
+	margin-top:210px;
+}
+.regwhitebox{
+	width:301px;
+	height:67px;
+	margin:0 auto;
+	margin-top:132px;
+	margin-bottom:30px;
+	background-color:white;
+}
+.regwhiteboxx{
+	width:301px;
+	height:67px;
+	margin:0 auto;
+	margin-top:30px;
+	margin-bottom:30px;
+	background-color:white;
+}
+.bottomwhitee{
+	height:189px;
+	background-color:rgb(227,236,243);
+}
+.regwhiteboxfour{
+	background-color:white;
+	border-style:solid;
+	border-color:rgb(199,201,205);
+	width:436px;
+	height:216px;
+	border-top:30px;
+	border-left:12px;
+	border-right:12px;
+	margin:0 auto;
+
+
+
+
+}
+
+
+
+
+

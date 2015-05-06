@@ -1,8 +1,8 @@
 .topheaderbox{
 	height:48px;
-	background:rgb(40,120,179)	;
-
-
+	background:rgb(29,92,137)	;
+	padding-top:10px;
+	padding-left:10px;
 }
 .biggraybox{
 	background:rgb(40,49,63);
@@ -81,6 +81,7 @@
 	height:216px;
 	margin:0 auto;
 	margin-bottom:30px;
+	padding-top:25px;
 }
 .biiggraybox {
 	height:1578px;
@@ -125,11 +126,74 @@ text-align:center;
 	height:22px;
 	margin:0 auto;
 }
+.lilwhitee{
+	height:32px;
+	width:32px;
+	background-color:white;
+	float:  left;
 
 
 
+}
+.liilwhite{
+	width:118px;
+	height:32px;
+	background-color:white;
+	float:left;
+	margin-left:10px;
+
+}
+.medbluee{
+	height:48px;
+	width:400px;
+	background-color:rgb(43,120,175);
+	float:left;
+}
+.grayone{
+	width:48px;
+	height:57px;
+	background-color:rgb(80,91,107)	;
+	float:left;
+	margin-top:10px;
+}
+.graytwo{
+	width:240px;
+	height:55px;
+	background-color:rgb(80,91,107)	;
+	float:right;
+
+}
+.toplilgray{
+	background-color:rgb(189,199,206)	;
+	height:63px;
+	width:63px;
+	margin:0 auto;
+	margin-bottom:15px;
+
+}
+.medskinny{
+	background-color:rgb(189,199,206);	
+	height:25px;
+	width:407px;
+	margin:0 auto;
+	border-bottom:20px;
+	border-style:bold;
+	border-color:white;
+	border-top:15px;
 
 
+
+}
+
+.bottomfat{
+	background-color:rgb(189,199,206)	;
+	height:48px;
+	width:407px;
+	margin:0 auto;
+	margin-top:20px;
+
+
+}
 
 
 

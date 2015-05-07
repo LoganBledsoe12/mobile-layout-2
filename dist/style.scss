@@ -136,20 +136,22 @@
 
 
 }
-.bottomborder ul li {
+.bottomborder {
+	li{
 	display:inline-block;
 	color:white;
 	font-weight:bold;
 	padding-bottom:10px;
+	margin:5px 5px;
 }
-.bottomborder ul {
+
+ul {
 
 text-align:center;
-
-}
-ul{
 	margin-right: 37px;
 }
+}
+
 .whitewhite{
 	background-color:white;
 	background-position: center center;
@@ -299,17 +301,17 @@ ul{
 .howdy{
 	color: red;	
 }
+.topheaderbox div{}
 
-
-.graytwo span {
+.graytwo{
+ span {
 	color:rgb(204,204,200)	;
 	float:left;
 	padding-top:5px;
 	font-size:14px;
 }
-li{
-	margin:5px 5px;
 }
+
 
 
 
